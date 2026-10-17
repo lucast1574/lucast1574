@@ -4,6 +4,10 @@
   </ul>
 </div>
 
+<p align="center">
+  <a href="https://lucas.santillan.pro"><strong>🌐 Visit my portfolio — lucas.santillan.pro</strong></a>
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Luc4st1574/Luc4st1574/blob/main/1705114483615.jpeg" alt="Banner">
