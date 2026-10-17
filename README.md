@@ -5,7 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://lucas.santillan.pro"><strong>🌐 Visit my portfolio — lucas.santillan.pro</strong></a>
+  <a href="https://lucas.santillan.pro">
+    <img src="assets/portfolio.svg" width="100%" alt="Explore my portfolio — Lucas Santillan — lucas.santillan.pro">
+  </a>
 </p>
 
 <!-- Banner -->
@@ -206,15 +208,11 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 <!-- Connect with me -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
-    <br>
-  <a href="https://discord.gg/smzHyCNpnQ">
-    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="Join my Discord server">
+<p align="center">
+  <a href="https://discord.gg/AdJertqcYK">
+    <img src="assets/discord.svg" width="100%" alt="Join my coding community on Discord — build, learn, and share">
   </a>
-  </ul>
-</div>
+</p>
 
 
 <!--h2 without bottom border-->

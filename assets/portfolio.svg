@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" fill="none">
+  <title>Explore Lucas Santillan's portfolio — lucas.santillan.pro</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#141f26"/><stop offset="1" stop-color="#080d12"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#b9f34b" stop-opacity=".18"/><stop offset="1" stop-color="#b9f34b" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#c9e2d4" stroke-opacity=".06"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1098" height="318" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1100" height="320" fill="url(#bg)"/>
+    <rect width="1100" height="320" fill="url(#grid)"/>
+    <ellipse cx="860" cy="145" rx="310" ry="270" fill="url(#glow)"/>
+    <path d="M0 0H1100" stroke="#b9f34b" stroke-width="6"/>
+    <g stroke="#b9f34b" stroke-opacity=".2">
+      <circle cx="900" cy="160" r="120"/><circle cx="900" cy="160" r="160"/><circle cx="900" cy="160" r="200"/>
+      <path d="M680 160H1120M900-60V380"/>
+    </g>
+    <circle cx="900" cy="40" r="5" fill="#b9f34b"/>
+    <circle cx="740" cy="160" r="3" fill="#b9f34b"/>
+    <text x="48" y="44" fill="#b9f34b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">LUCAS SANTILLAN / FULL STACK DEVELOPER</text>
+    <text x="44" y="123" fill="#f2f4ed" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="900" letter-spacing="-3">IDEAS INTO</text>
+    <text x="44" y="197" fill="#b9f34b" font-family="Georgia, serif" font-style="italic" font-size="79" letter-spacing="-4">reality.</text>
+    <text x="48" y="230" fill="#aabbb3" font-family="Arial, Helvetica, sans-serif" font-size="14">Digital products. Creative experiments. Things that work.</text>
+    <rect x="48" y="258" width="237" height="36" rx="4" fill="#b9f34b"/>
+    <text x="65" y="281" fill="#0b1115" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800" letter-spacing="1.3">EXPLORE MY PORTFOLIO</text>
+    <path d="M257 282L267 272M257 272H267V282" stroke="#0b1115" stroke-width="1.7"/>
+    <text x="305" y="281" fill="#d8e4dc" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing=".6">lucas.santillan.pro</text>
+    <rect x="850" y="110" width="100" height="100" rx="22" fill="#b9f34b"/>
+    <path d="M876 184L924 136M876 136H924V184" stroke="#0b1115" stroke-width="7"/>
+    <text x="900" y="253" text-anchor="middle" fill="#b9f34b" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="3">BUILD / SHIP / REPEAT</text>
+  </g>
+  <rect x=".5" y=".5" width="1099" height="319" rx="18" stroke="#b9f34b" stroke-opacity=".3"/>
+</svg>
