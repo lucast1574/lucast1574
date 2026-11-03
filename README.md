@@ -59,18 +59,38 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
 <!--Intro end-->
 
-## Stack
+## Development stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,svelte,react,nextjs,go,flutter,postgres,docker&theme=dark" height="40" alt="TypeScript, Svelte, React, Next.js, Go, Flutter, PostgreSQL, Docker">
-</p>
-
-**Web** · TypeScript, Svelte, React, Next.js, Tailwind CSS  
-**Mobile** · Flutter, Dart  
-**Backend** · Go, Node.js, Python  
-**Tools & Data** · Docker, PostgreSQL, Git  
-
-<sub>Currently building with Svelte · Exploring Rust</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web development</h3>
+      <p>Interfaces &amp; web applications</p>
+      <img src="https://skillicons.dev/icons?i=svelte,ts,react,nextjs,tailwind&amp;theme=dark" height="36" alt="Svelte, TypeScript, React, Next.js, Tailwind CSS">
+      <p><sub>Svelte · TypeScript · React · Next.js · Tailwind CSS</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend &amp; systems</h3>
+      <p>APIs, services &amp; systems programming</p>
+      <img src="https://skillicons.dev/icons?i=go,rust,nodejs,py&amp;theme=dark" height="36" alt="Go, Rust, Node.js, Python">
+      <p><sub>Go · Rust · Node.js · Python</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Mobile development</h3>
+      <p>Cross-platform applications</p>
+      <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark" height="36" alt="Flutter, Dart">
+      <p><sub>Flutter · Dart</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Infrastructure &amp; data</h3>
+      <p>Shipping, storage &amp; version control</p>
+      <img src="https://skillicons.dev/icons?i=docker,postgres,git&amp;theme=dark" height="36" alt="Docker, PostgreSQL, Git">
+      <p><sub>Docker · PostgreSQL · Git</sub></p>
+    </td>
+  </tr>
+</table>
 
 <!-- Connect with me -->
 
