@@ -48,7 +48,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - **Documentation:** Notion
 - **Frameworks:** Spring Boot, Django, Strapi, Trcp, Angular, Vue, React, Next.js, Node.js, Serverless
 - **Databases:** MySQL, SQLServer, PostgreSQL, MongoDB,
-- **Languages:** C++, Python, PHP, Rust, Java, HTML, CSS3, TypeScript, JavaScript, Dart
+- **Languages:** Go, C++, Python, PHP, Java, HTML, CSS3, TypeScript, JavaScript, Dart
 - **Design:** Photoshop, Premiere Pro, After Effects, Audition, Cinema4D
 - **Others:** Blockchain y Web3, Machine Learning, Kubernetes, Docker, AWS
 
@@ -59,152 +59,18 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
 <!--Intro end-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## Stack
 
-<div align="center">
-  <h3>🌟 Frontend Frameworks and Tools</h3>
-</div>
-
-<br>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,angular,nuxtjs,vue,svelte,solidjs,htmx,dotnet,jquery,laravel,php,html,css,js,bootstrap,tailwind,threejs,p5js,vite,vitest,vercel,apollo&perline=14&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,svelte,react,nextjs,go,flutter,postgres,docker&theme=dark" height="40" alt="TypeScript, Svelte, React, Next.js, Go, Flutter, PostgreSQL, Docker">
 </p>
 
-<br>
+**Web** · TypeScript, Svelte, React, Next.js, Tailwind CSS  
+**Mobile** · Flutter, Dart  
+**Backend** · Go, Node.js, Python  
+**Tools & Data** · Docker, PostgreSQL, Git  
 
-
-<div align="center">
-  <h3>📟 Programing Languages</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,rust,dart,nodejs,ts,kotlin,swift,java,c,cpp,cs&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>🌐 Backend Frameworks</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,spring&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>📱 Mobile Development</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,gradle,androidstudio,apple&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>💾 Data Base</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,graphql,pkl&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>☁️ Cloud Services and Git</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,postman,git,bitbucket,github,gitlab,githubactions&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>🤖 Ai Tools</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>🎮 Game Development</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>📦 Packet Managers, OS and Containers</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,bash,deno,linux,arch,kali,ubuntu,debian,docker,kubernetes,jenkins&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>🖌️ Design Tools</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,au,ae,xd,figma&perline=14&theme=dark" />
-  </a>
-</p>
+<sub>Currently building with Svelte · Exploring Rust</sub>
 
 <!-- Connect with me -->
 
