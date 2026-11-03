@@ -59,36 +59,37 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
 <!--Intro end-->
 
-<h2 align="center">Development stack</h2>
-
-<p align="center">Web applications · Backend services · Mobile experiences</p>
+<p align="center"><img src="assets/stack-header.svg" width="100%" alt="Development stack — Web applications, backend services, and mobile experiences"></p>
 
 <table align="center">
   <tr>
     <td width="420" align="center" valign="top">
-      <h3>Web</h3>
+      <p><sub>01 / INTERFACES</sub></p><h3>Web</h3>
       <p><img src="https://skillicons.dev/icons?i=svelte,ts,react,nextjs,tailwind&amp;theme=dark" height="40" alt="Svelte, TypeScript, React, Next.js, Tailwind CSS"></p>
       <p><sub>Svelte · TypeScript · React<br>Next.js · Tailwind CSS</sub></p>
     </td>
     <td width="420" align="center" valign="top">
-      <h3>Backend &amp; Systems</h3>
+      <p><sub>02 / SERVICES</sub></p><h3>Backend &amp; Systems</h3>
       <p><img src="https://skillicons.dev/icons?i=py,django,go,rust,nodejs&amp;theme=dark" height="40" alt="Python, Django, Go, Rust, Node.js"></p>
       <p><sub>Python · Django · Go<br>Rust · Node.js</sub></p>
     </td>
   </tr>
   <tr>
     <td width="420" align="center" valign="top">
-      <h3>Mobile</h3>
+      <p><sub>03 / APPLICATIONS</sub></p><h3>Mobile</h3>
       <p><img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark" height="40" alt="Flutter, Dart"></p>
       <p><sub>Flutter · Dart<br>Cross-platform development</sub></p>
     </td>
     <td width="420" align="center" valign="top">
-      <h3>Infrastructure &amp; Data</h3>
+      <p><sub>04 / FOUNDATIONS</sub></p><h3>Infrastructure &amp; Data</h3>
       <p><img src="https://skillicons.dev/icons?i=docker,postgres,git&amp;theme=dark" height="40" alt="Docker, PostgreSQL, Git"></p>
       <p><sub>Docker · PostgreSQL · Git<br>Containers · Databases · Version control</sub></p>
     </td>
   </tr>
 </table>
+
+<br>
+<br>
 
 <!-- Connect with me -->
 
