@@ -59,35 +59,33 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
 <!--Intro end-->
 
-## Development stack
+<h2 align="center">Development stack</h2>
 
-<table>
+<p align="center">Web applications · Backend services · Mobile experiences</p>
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Web development</h3>
-      <p>Interfaces &amp; web applications</p>
-      <img src="https://skillicons.dev/icons?i=svelte,ts,react,nextjs,tailwind&amp;theme=dark" height="36" alt="Svelte, TypeScript, React, Next.js, Tailwind CSS">
-      <p><sub>Svelte · TypeScript · React · Next.js · Tailwind CSS</sub></p>
+    <td width="420" align="center" valign="top">
+      <h3>Web</h3>
+      <p><img src="https://skillicons.dev/icons?i=svelte,ts,react,nextjs,tailwind&amp;theme=dark" height="40" alt="Svelte, TypeScript, React, Next.js, Tailwind CSS"></p>
+      <p><sub>Svelte · TypeScript · React<br>Next.js · Tailwind CSS</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Backend &amp; systems</h3>
-      <p>APIs, services &amp; systems programming</p>
-      <img src="https://skillicons.dev/icons?i=py,django,go,rust,nodejs&amp;theme=dark" height="36" alt="Python, Django, Go, Rust, Node.js">
-      <p><sub>Python · Django · Go · Rust · Node.js</sub></p>
+    <td width="420" align="center" valign="top">
+      <h3>Backend &amp; Systems</h3>
+      <p><img src="https://skillicons.dev/icons?i=py,django,go,rust,nodejs&amp;theme=dark" height="40" alt="Python, Django, Go, Rust, Node.js"></p>
+      <p><sub>Python · Django · Go<br>Rust · Node.js</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Mobile development</h3>
-      <p>Cross-platform applications</p>
-      <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark" height="36" alt="Flutter, Dart">
-      <p><sub>Flutter · Dart</sub></p>
+    <td width="420" align="center" valign="top">
+      <h3>Mobile</h3>
+      <p><img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark" height="40" alt="Flutter, Dart"></p>
+      <p><sub>Flutter · Dart<br>Cross-platform development</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Infrastructure &amp; data</h3>
-      <p>Shipping, storage &amp; version control</p>
-      <img src="https://skillicons.dev/icons?i=docker,postgres,git&amp;theme=dark" height="36" alt="Docker, PostgreSQL, Git">
-      <p><sub>Docker · PostgreSQL · Git</sub></p>
+    <td width="420" align="center" valign="top">
+      <h3>Infrastructure &amp; Data</h3>
+      <p><img src="https://skillicons.dev/icons?i=docker,postgres,git&amp;theme=dark" height="40" alt="Docker, PostgreSQL, Git"></p>
+      <p><sub>Docker · PostgreSQL · Git<br>Containers · Databases · Version control</sub></p>
     </td>
   </tr>
 </table>
