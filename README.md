@@ -72,8 +72,8 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
     <td width="50%" valign="top">
       <h3>Backend &amp; systems</h3>
       <p>APIs, services &amp; systems programming</p>
-      <img src="https://skillicons.dev/icons?i=go,rust,nodejs,py&amp;theme=dark" height="36" alt="Go, Rust, Node.js, Python">
-      <p><sub>Go · Rust · Node.js · Python</sub></p>
+      <img src="https://skillicons.dev/icons?i=py,django,go,rust,nodejs&amp;theme=dark" height="36" alt="Python, Django, Go, Rust, Node.js">
+      <p><sub>Python · Django · Go · Rust · Node.js</sub></p>
     </td>
   </tr>
   <tr>
