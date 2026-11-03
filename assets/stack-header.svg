@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140">
+<defs><linearGradient id="a"><stop stop-color="#ff6b35"/><stop offset=".5" stop-color="#9c83ff"/><stop offset="1" stop-color="#39c8df"/></linearGradient></defs>
+<rect x="1" y="1" width="838" height="138" rx="16" fill="#11161e" stroke="#293342"/>
+<path d="M28 1H812" stroke="url(#a)" stroke-width="2"/>
+<g fill="none" stroke="#253142" stroke-width="1"><path d="M32 105H160L185 80H250M590 60H650L680 30H808M650 110H710L738 82H808"/><circle cx="250" cy="80" r="4"/><circle cx="590" cy="60" r="4"/><circle cx="650" cy="110" r="4"/></g>
+<text x="420" y="37" text-anchor="middle" fill="#a99aff" font-family="monospace" font-size="10" letter-spacing="4">CODE / CREATE / SHIP</text>
+<text x="420" y="77" text-anchor="middle" fill="#f0f3f8" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="31">Development stack</text>
+<text x="420" y="105" text-anchor="middle" fill="#9ba9bc" font-family="Segoe UI,Arial,sans-serif" font-size="12">Web applications · Backend services · Mobile experiences</text>
+<rect x="385" y="123" width="70" height="2" rx="1" fill="url(#a)"/>
+</svg>
