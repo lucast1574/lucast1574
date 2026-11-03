@@ -82,8 +82,8 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
     </td>
     <td width="420" align="center" valign="top">
       <p><sub>04 / FOUNDATIONS</sub></p><h3>Infrastructure &amp; Data</h3>
-      <p><img src="https://skillicons.dev/icons?i=docker,postgres,git&amp;theme=dark" height="40" alt="Docker, PostgreSQL, Git"></p>
-      <p><sub>Docker · PostgreSQL · Git<br>Containers · Databases · Version control</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,git&amp;theme=dark" height="40" alt="Docker, PostgreSQL, MongoDB, Git"></p>
+      <p><sub>Docker · PostgreSQL · MongoDB · Git<br>Containers · Databases · Version control</sub></p>
     </td>
   </tr>
 </table>
