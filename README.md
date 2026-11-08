@@ -77,13 +77,20 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   <tr>
     <td width="420" align="center" valign="top">
       <p><sub>03 / APPLICATIONS</sub></p><h3>Mobile</h3>
-      <p><img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark" height="40" alt="Flutter, Dart"></p>
-      <p><sub>Flutter · Dart<br>Cross-platform development</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=flutter,dart,react&amp;theme=dark" height="40" alt="Flutter, Dart, React Native"></p>
+      <p><sub>Flutter · Dart · React Native<br>Cross-platform development</sub></p>
     </td>
     <td width="420" align="center" valign="top">
       <p><sub>04 / FOUNDATIONS</sub></p><h3>Infrastructure &amp; Data</h3>
       <p><img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,git&amp;theme=dark" height="40" alt="Docker, PostgreSQL, MongoDB, Git"></p>
       <p><sub>Docker · PostgreSQL · MongoDB · Git<br>Containers · Databases · Version control</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <p><sub>05 / CLOUD &amp; OPERATIONS</sub></p><h3>DevOps</h3>
+      <p><img src="https://skillicons.dev/icons?i=firebase,supabase,aws,azure,gcp&amp;theme=dark" height="40" alt="Firebase, Supabase, AWS, Azure, Google Cloud"></p>
+      <p><sub>Firebase · Supabase · AWS · Azure · Google Cloud<br>Cloud services · Deployment · Operations</sub></p>
     </td>
   </tr>
 </table>
